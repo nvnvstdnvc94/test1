@@ -7,7 +7,7 @@ public class Test3 {
 	public void Third() {
 		System.out.println("Star");
 	System.out.println("Starica");
-	System.out.println("Starac");
+	System.out.println("Starac1");
 
 	}
 
