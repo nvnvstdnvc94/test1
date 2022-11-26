@@ -6,6 +6,7 @@ public class Test3 {
 @Test
 	public void Third() {
 		System.out.println("Star");
+	System.out.println("Starica");
 
 	}
 
